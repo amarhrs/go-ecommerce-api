@@ -72,4 +72,11 @@ Proyek ini memiliki fitur **CRUD Produk** dan **autentikasi JWT** untuk mengaman
    ```bash
    git clone https://github.com/username/go-ecommerce-api.git
    cd go-ecommerce-api
+
+1. **Jalankan aplikasi**
+   ```bash
    go run main.go
+
+## 📄 Dokumentasi API 
+Dokumentasi API lengkap beserta contoh request & response bisa diakses melalui link berikut:  
+🔗 **[Lihat di Postman](https://web.postman.co/workspace/My-Workspace~e6349072-0dee-4ec4-80b2-ea5b7f48e15e/collection/35999349-ade2997f-5bde-4eb4-ab43-16d882511a9e?action=share&source=copy-link&creator=35999349)**
